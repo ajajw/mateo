@@ -5,8 +5,8 @@ import re
 from telethon import TelegramClient, events
 import random
 
-API_ID =  20597671 #tu api id bb
-API_HASH = 'e89f2c4056dd402bef8299bce660cbcd'  #tu api hash bb
+API_ID =  27337131 #tu api id bb
+API_HASH = '695a43d29e73423ad4142b20a736ea42'  #tu api hash bb
 SEND_CHAT = -1001784544888 #chat o canal donde quieres que se envien las ccs
 
 client = TelegramClient('session', API_ID, API_HASH)
