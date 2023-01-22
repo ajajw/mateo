@@ -22,12 +22,15 @@ chats  = [
     '@RemChatChk',
     '@ComunidadGOATchat',
     '@alterchkchat'
-    
+
 ]
 
 PALABRAS_CLAVE = [
      "Approved",
-     "APPROVED"
+     "APPROVED",
+     "APPROVED ✅",
+     "✅✅✅ Approved ✅✅✅",
+     "Approved CCN"
 ]
 @client.on(events.MessageEdited(chats=chats))
 async def new_order(event):
