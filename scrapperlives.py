@@ -21,7 +21,8 @@ chats  = [
     '@leonbinerss',
     '@RemChatChk',
     '@ComunidadGOATchat',
-    '@alterchkchat'
+    '@alterchkchat',
+    '@AssociatonBinners1'
 
 ]
 
