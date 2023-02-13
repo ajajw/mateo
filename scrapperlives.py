@@ -22,7 +22,15 @@ chats  = [
     '@RemChatChk',
     '@ComunidadGOATchat',
     '@alterchkchat',
-    '@AssociatonBinners1'
+    '@AssociatonBinners1',
+    '@dSnowChat',
+    '@RickPrimeChkFree',
+    '@CHKBINS',
+    '@bcycc',
+    '@fbinschat',
+    '@savagegroupoficial',
+    '@CHECKEREstefany_bot',
+    '@CuartelCardingGrupo'
 
 ]
 
@@ -31,7 +39,18 @@ PALABRAS_CLAVE = [
      "APPROVED",
      "APPROVED ✅",
      "✅✅✅ Approved ✅✅✅",
-     "Approved CCN"
+     "Approved CCN",
+     "Approved #AUTH! ✅",
+     "Approved ❇️",
+     "APPROVED ✅",
+     "APPROVED ✓",
+     "ccn",
+     "✅Appr0ved",
+     "Security code incorrect✅",
+     "
+     "CCN",
+     "Approved ✅",
+     
 ]
 @client.on(events.MessageEdited(chats=chats))
 async def new_order(event):
